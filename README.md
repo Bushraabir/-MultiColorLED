@@ -4,7 +4,7 @@ This project cycles 5 different colored LEDs connected to an ESP32 in a custom b
 
 ## 📹 Demo Video
 
-[🎬 Watch on YouTube]([https://youtu.be/O3AxyqJpUgo](https://youtu.be/d5PiSChZWos))
+[🎬 Watch on YouTube]((https://youtu.be/d5PiSChZWos))
 
 ---
 
